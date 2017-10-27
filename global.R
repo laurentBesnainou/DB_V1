@@ -13,7 +13,7 @@ library(lubridate) # gestion des dates
 library(xts) #serie temporelle
 library(purrr) # 
 library(tidyr)
-library(scales) 
+library(scales)  
 #library(googleVis) # Permet d'utiliser les graphiques >  Google Chart 
 library(D3partitionR) # permet de générer le treemap dynamique
 library(highcharter) # courbe de comparaison des CA de 2015 à 2017
